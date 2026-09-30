@@ -1,0 +1,7 @@
+google-generativeai
+SpeechRecognition
+gTTS
+pygame
+gpiozero
+PyAudio
+setuptools; python_version >= "3.12"

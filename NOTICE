@@ -1,0 +1,10 @@
+Raspberry Pi Gemini Voice Assistant
+
+Project adaptation and implementation: Pradip Sapkota
+
+This repository is based on the open-source "Google Gemini Voice Chatbot on Raspberry Pi" project by TechMakerAI.
+The upstream code was distributed under the MIT License. The original copyright notice and license text are preserved in LICENSE as required by that license.
+
+This adaptation reorganizes and documents the project for portfolio use, including clearer configuration, environment-variable API key handling, improved error reporting, local wiring documentation, dependency metadata, Git ignore rules, and project-specific README documentation.
+
+The Raspberry Pi wiring image included in assets/ was supplied with the project materials. If you publish this repository publicly, retain any attribution required by the image's original source/license.
